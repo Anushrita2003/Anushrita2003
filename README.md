@@ -70,4 +70,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/anushrita2003/anushrita2003/output/github-contribution-grid-snake.svg" />
 </p>
-![GitHub Snake](https://github.com/Anushrita2003/Anushrita2003/blob/output/github-contribution-grid-snake.svg)
+<!-- ![GitHub Snake](https://github.com/Anushrita2003/Anushrita2003/blob/output/github-contribution-grid-snake.svg) -->
