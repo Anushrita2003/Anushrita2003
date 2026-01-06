@@ -8,13 +8,14 @@
   />
 </p>
 
+---
+
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=Anushrita2003&theme=flat&no-frame=true&no-bg=true&column=5&title=Stars,Commits,Repositories,PullRequest,Followers"
     alt="GitHub Profile Trophies"
   />
 </p>
-
 
 ---
 
