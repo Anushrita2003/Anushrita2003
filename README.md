@@ -54,10 +54,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anushrita2003" />
+  <br/><br/>
+  
   <img src="https://streak-stats.demolab.com?user=Anushrita2003" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anushrita2003" />
-  <br/><br/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushrita2003" />
 </p>
 
