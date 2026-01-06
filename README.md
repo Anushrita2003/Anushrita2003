@@ -54,12 +54,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushrita2003&show_icons=true&theme=default" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=Anushrita2003" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushrita2003&layout=compact" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anushrita2003" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushrita2003" />
 </p>
+
 
 
 ---
