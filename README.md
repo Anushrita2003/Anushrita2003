@@ -2,20 +2,19 @@
 <h3 align="center">Frontend Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Anushrita2003&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Anushrita2003&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Profile views" />
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Anushrita2003&theme=flat&no-frame=true&no-bg=true&column=5&title=Stars,Commits,Repositories,PullRequest,Followers"
-    alt="GitHub Profile Trophies"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anushrita2003&theme=flat&no-frame=true&no-bg=true&column=5&title=Stars,Commits,Repositories,PullRequest,Followers"
+         alt="GitHub Profile Trophies" />
+  </a>
 </p>
+
 
 ---
 
